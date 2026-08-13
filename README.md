@@ -7,4 +7,5 @@ Python Histogram uses only the Python standard library; there's no service or de
 ```
 percentile.py
 ```
-Run the Python Histogram test alongside the implementation for concrete examples.
+
+Run the Python Histogram test next to the implementation for concrete examples.
